@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(176, 192, 239);
+}
+.container{
+    text-align: center;
+    background-color: white;
+    width: 414px;
+    height: 300px;
+    margin: auto;
+    margin-top: 263px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 1px 2px rgb(164, 151, 177);
+}
+h1{
+
+    padding: 14px;
+    font-family: 'Courier New', Courier, monospace;
+}
+input{
+    margin-top: 30px;
+    padding: 8px;
+    width: 110px
+    
+}
+select{
+    padding: 8px;
+    width: 110px
+}
+button{
+    border-radius: 11px;
+    background-color: rgb(176, 192, 239);
+    margin-top: 29px;
+    padding: 8px;
+    width: 110px;
+    cursor: pointer;
+    
+    
+}
+#result{
+    padding: 10px;
+    color: #000;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+
+
+}
